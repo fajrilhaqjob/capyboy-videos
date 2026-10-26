@@ -1,0 +1,343 @@
+{
+  "start_date": "2026-10-27",
+  "waktu_tayang": "19:30",
+  "zona_waktu_offset": "+07:00",
+  "organization_id": "6addbbb50175c1c9488e8017",
+  "channels": {
+    "youtube": "6adea70c2f1f5ed648d1cb54",
+    "tiktok": "6adea75b2f1f5ed648d1d01b"
+  },
+  "lookahead_hari": 7,
+  "posts": [
+    {
+      "id": "01",
+      "file": "videos/01-kenalan.mp4",
+      "hari_ke": 0,
+      "seri": "Kenalan",
+      "youtube": {
+        "title": "Kenalan sama Capyboy: hidup hemat tanpa ribet",
+        "description": "Capyboy, capybara santuy yang gak mau ribet soal duit. Trik ngatur uang bulanan buat kamu yang tiap bulan harus cukup.\n\n#hemat #uangbulanan #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Kenalan sama Capyboy, capybara yang gak mau ribet soal duit. #hemat #uangbulanan #tipsuang"
+      }
+    },
+    {
+      "id": "02",
+      "file": "videos/02-bocor-halus.mp4",
+      "hari_ke": 1,
+      "seri": "Cek Dompet",
+      "youtube": {
+        "title": "3 bocor halus yang bikin gaji cepat habis",
+        "description": "Gaji tanggal 25, tanggal 10 udah tipis? Cek 3 bocor halus ini sebelum tanggal tua datang. Berapa total punyamu? Tulis di komentar.\n\n#hemat #tanggaltua #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Cek 3 bocor halus ini sebelum tanggal tua datang. Total punyamu berapa? Tulis di komentar. #hemat #tanggaltua #keuangan"
+      }
+    },
+    {
+      "id": "03",
+      "file": "videos/03-daftar-belanja.mp4",
+      "hari_ke": 3,
+      "seri": "Belanja Hemat",
+      "youtube": {
+        "title": "Belanja tanpa daftar bikin boros? Coba 3 trik ini",
+        "description": "Belanja pakai daftar: cek stok di rumah, beli sesuai daftar, dan jangan belanja pas lapar. Coba satu dulu minggu ini.\n\n#belanjahemat #hemat #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Belanja tanpa daftar? Siap-siap bocor. Coba 3 trik ini. #belanjahemat #hemat #tipsuang"
+      }
+    },
+    {
+      "id": "04",
+      "file": "videos/04-worth-it-3-pertanyaan.mp4",
+      "hari_ke": 4,
+      "seri": "Worth It Atau Skip",
+      "youtube": {
+        "title": "Worth it atau skip? Tanya 3 hal ini sebelum beli",
+        "description": "Sebelum beli sesuatu, tanya 3 hal: butuh atau cuma pengen, hidupmu berubah atau tidak kalau gak beli, dan sebulan lagi masih kepake atau tidak.\n\n#worthitatauskip #hemat #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Worth it atau skip? Tanya 3 hal ini sebelum beli. #worthitatauskip #hemat #tipsuang"
+      }
+    },
+    {
+      "id": "05",
+      "file": "videos/05-dana-darurat.mp4",
+      "hari_ke": 5,
+      "seri": "Istilah Ribet",
+      "youtube": {
+        "title": "Dana darurat itu apa? Gampangnya: bantal uang",
+        "description": "Dana darurat dijelaskan tanpa ribet: bantal uang buat hal mendadak. Mulai dari kecil, yang penting konsisten.\n\n#danadarurat #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Dana darurat = bantal uang. Mulai dari kecil, yang penting konsisten. #danadarurat #hemat #keuangan"
+      }
+    },
+    {
+      "id": "06",
+      "file": "videos/06-pembagian-gaji.mp4",
+      "hari_ke": 7,
+      "seri": "Pembagian Gaji",
+      "youtube": {
+        "title": "Gaji dibagi 3 tanpa ribet: kebutuhan, keinginan, simpanan",
+        "description": "Cara bagi gaji tanpa ribet: kebutuhan, keinginan, dan simpanan. Sesuaikan porsinya dengan kondisimu.\n\n#gaji #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Gaji dibagi 3 bagian tanpa ribet: kebutuhan, keinginan, simpanan. #gaji #hemat #keuangan"
+      }
+    },
+    {
+      "id": "07",
+      "file": "videos/07-uang-dapur.mp4",
+      "hari_ke": 8,
+      "seri": "Uang Dapur",
+      "youtube": {
+        "title": "Uang dapur bocor? Cek 4 tempat ini",
+        "description": "Uang dapur cepat habis? Cek 4 kebocoran yang sering terlewat: belanja tanpa cek kulkas, stok kebanyakan, makanan terbuang, dan belanja tanpa rencana menu.\n\n#uangdapur #ibuhemat #hemat #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Uang dapur bocor padahal gak jajan? Cek 4 ini. #uangdapur #ibuhemat #hemat"
+      }
+    },
+    {
+      "id": "08",
+      "file": "videos/08-menu-hemat-1.mp4",
+      "hari_ke": 10,
+      "seri": "Tanggal Tua",
+      "youtube": {
+        "title": "Survival kit tanggal tua: menu hemat tanpa nyiksa diri",
+        "description": "Tips bertahan di tanggal tua: masak sekali untuk dua kali makan, pilih lauk yang awet dan terjangkau, sayur musiman, dan bawa bekal.\n\n#tanggaltua #menuhemat #hemat #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Tanggal tua? Masih bisa makan enak. Ini caranya. #tanggaltua #menuhemat #hemat"
+      }
+    },
+    {
+      "id": "09",
+      "file": "videos/09-jebakan-cicilan.mp4",
+      "hari_ke": 11,
+      "seri": "Istilah Ribet",
+      "youtube": {
+        "title": "Jebakan dicicil-cicil: kenapa cicilan kecil bisa numpuk",
+        "description": "Cicilan kecil terasa ringan, tapi kalau banyak jumlahnya menumpuk dan jalan tiap bulan. Tanya dulu: masih sanggup kalau gaji telat?\n\n#cicilan #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Cicilan kecil itu jebakan manis. Ini alasannya. #cicilan #hemat #keuangan"
+      }
+    },
+    {
+      "id": "10",
+      "file": "videos/10-kesalahan-uang.mp4",
+      "hari_ke": 12,
+      "seri": "Curhat Dompet",
+      "youtube": {
+        "title": "3 kesalahan uang yang sering banget kejadian",
+        "description": "Tiga kesalahan uang yang sering terjadi: tidak mencatat, menabung dari sisa, dan beli dulu baru mikir. Pilih satu untuk diperbaiki minggu ini.\n\n#kesalahanuang #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "3 kesalahan uang yang sering banget kejadian. Kamu yang mana? #kesalahanuang #hemat #keuangan"
+      }
+    },
+    {
+      "id": "11",
+      "file": "videos/11-cek-dompet-2.mp4",
+      "hari_ke": 14,
+      "seri": "Cek Dompet",
+      "youtube": {
+        "title": "Pertengahan bulan: cek 3 angka ini biar dompet aman",
+        "description": "Cek 3 angka di pertengahan bulan: sisa uang, sisa hari sampai gajian, dan tagihan yang belum jalan. Bagi sisa uang dengan sisa hari untuk dapat jatah harian.\n\n#cekdompet #hemat #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Pertengahan bulan. Dompet masih aman? Cek 3 angka ini. #cekdompet #hemat #tipsuang"
+      }
+    },
+    {
+      "id": "12",
+      "file": "videos/12-langganan.mp4",
+      "hari_ke": 15,
+      "seri": "Worth It Atau Skip",
+      "youtube": {
+        "title": "Langganan bulanan: worth it atau skip?",
+        "description": "Cek semua langganan bulananmu. Yang sebulan tidak dipakai, skip. Yang dipakai tiap minggu, worth it.\n\n#langganan #worthitatauskip #hemat #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Langganan bulanan: worth it atau skip? Cek daftarmu. #langganan #worthitatauskip #hemat"
+      }
+    },
+    {
+      "id": "13",
+      "file": "videos/13-inflasi.mp4",
+      "hari_ke": 17,
+      "seri": "Istilah Ribet",
+      "youtube": {
+        "title": "Inflasi itu apa? Gampangnya: harga naik diam-diam",
+        "description": "Inflasi dijelaskan tanpa ribet: harga barang naik pelan-pelan, jadi uang yang sama bisa membeli lebih sedikit.\n\n#inflasi #istilahribet #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Inflasi itu apa sih? Harga naik diam-diam. #inflasi #istilahribet #keuangan"
+      }
+    },
+    {
+      "id": "14",
+      "file": "videos/14-belanja-pasar.mp4",
+      "hari_ke": 18,
+      "seri": "Belanja Hemat",
+      "youtube": {
+        "title": "Belanja di pasar biar hemat: 3 trik gampang",
+        "description": "Tiga trik belanja di pasar: datang lebih pagi, bandingkan harga di beberapa lapak, dan beli sesuai daftar.\n\n#belanjapasar #hemat #uangdapur #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Belanja di pasar? Bawa 3 trik ini biar hemat. #belanjapasar #hemat #uangdapur"
+      }
+    },
+    {
+      "id": "15",
+      "file": "videos/15-stop-pengeluaran-kecil.mp4",
+      "hari_ke": 19,
+      "seri": "Curhat Dompet",
+      "youtube": {
+        "title": "3 pengeluaran kecil yang bisa distop tanpa nyiksa diri",
+        "description": "Tiga pengeluaran kecil yang bisa dikurangi: beli minum tiap hari di luar, ongkos kirim yang tidak perlu, dan langganan yang jarang dipakai.\n\n#hemat #pengeluaran #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "3 pengeluaran kecil yang bisa distop tanpa nyiksa diri. #hemat #pengeluaran #tipsuang"
+      }
+    },
+    {
+      "id": "16",
+      "file": "videos/16-tiga-kantong.mp4",
+      "hari_ke": 21,
+      "seri": "Tiga Kantong",
+      "youtube": {
+        "title": "Pisahkan uang jadi 3 kantong: harian, tagihan, simpanan",
+        "description": "Cara gampang mengatur uang: pisahkan jadi tiga kantong, yaitu harian, tagihan, dan simpanan. Yang penting tidak tercampur.\n\n#tigakantong #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Pisahkan uangmu jadi 3 kantong. Gampang banget. #tigakantong #hemat #keuangan"
+      }
+    },
+    {
+      "id": "17",
+      "file": "videos/17-belanja-mingguan-vs-harian.mp4",
+      "hari_ke": 22,
+      "seri": "Uang Dapur",
+      "youtube": {
+        "title": "Belanja mingguan atau harian: mana lebih hemat?",
+        "description": "Belanja mingguan lebih terencana, belanja harian lebih segar. Coba campur: bahan kering mingguan, bahan segar harian.\n\n#uangdapur #belanjahemat #hemat #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Belanja mingguan atau harian? Mana lebih hemat? #uangdapur #belanjahemat #hemat"
+      }
+    },
+    {
+      "id": "18",
+      "file": "videos/18-menu-hemat-2.mp4",
+      "hari_ke": 24,
+      "seri": "Tanggal Tua",
+      "youtube": {
+        "title": "Bekal hemat dari rumah: caranya gampang",
+        "description": "Tips bekal hemat: masak porsi lebih saat malam, satu lauk dua gaya, dan siapkan wadah rapi supaya tidak malas membawa.\n\n#bekalhemat #tanggaltua #hemat #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Bekal dari rumah, dompet bilang makasih. #bekalhemat #tanggaltua #hemat"
+      }
+    },
+    {
+      "id": "19",
+      "file": "videos/19-gaji-kotor-bersih.mp4",
+      "hari_ke": 25,
+      "seri": "Istilah Ribet",
+      "youtube": {
+        "title": "Gaji kotor vs gaji bersih: bedanya apa?",
+        "description": "Gaji kotor adalah angka sebelum dipotong, gaji bersih adalah yang benar-benar kamu terima. Pakai gaji bersih untuk mengatur anggaran.\n\n#gaji #istilahribet #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Gaji kotor vs gaji bersih. Bedanya apa? #gaji #istilahribet #keuangan"
+      }
+    },
+    {
+      "id": "20",
+      "file": "videos/20-rangkuman-5-tips.mp4",
+      "hari_ke": 26,
+      "seri": "Rangkuman",
+      "youtube": {
+        "title": "5 tips ngatur uang terbaik dari 3 minggu pertama",
+        "description": "Rangkuman 5 tips: cari bocor halus, bagi gaji jadi tiga, isi bantal uang, tanya tiga hal sebelum beli, dan rencanakan menu. Mulai dari satu dulu.\n\n#rangkuman #hemat #tipsuang #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "5 tips ngatur uang terbaik dari 3 minggu pertama. #rangkuman #hemat #tipsuang"
+      }
+    },
+    {
+      "id": "21",
+      "file": "videos/21-mulai-dana-darurat.mp4",
+      "hari_ke": 28,
+      "seri": "Istilah Ribet",
+      "youtube": {
+        "title": "3 langkah mulai dana darurat dari nol",
+        "description": "Tiga langkah memulai dana darurat: pisahkan tempatnya dari uang harian, tentukan jumlah kecil yang sanggup, dan otomatiskan kalau bisa.\n\n#danadarurat #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Mau punya bantal uang? Mulai dari 3 langkah ini. #danadarurat #hemat #keuangan"
+      }
+    },
+    {
+      "id": "22",
+      "file": "videos/22-terima-kasih.mp4",
+      "hari_ke": 29,
+      "seri": "30 Hari",
+      "youtube": {
+        "title": "30 hari bareng Capyboy: terima kasih dan apa selanjutnya",
+        "description": "Terima kasih sudah menonton 30 hari pertama. Tips mana yang paling kepake buatmu? Tulis di komentar.\n\n#capyboy #hemat #keuangan #shorts",
+        "categoryId": "27",
+        "madeForKids": false
+      },
+      "tiktok": {
+        "caption": "Udah 30 hari bareng Capyboy! Tips mana yang paling kepake? #capyboy #hemat #keuangan"
+      }
+    }
+  ]
+}
